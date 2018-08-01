@@ -1,3 +1,6 @@
+created_date: 2018-08-01
+------
+
 # Resize Observing
 
 > browser 에서 리사이즈는 window event 이므로, Vue에서 해당 문제를 해결하는 2가지 방안을 제시
