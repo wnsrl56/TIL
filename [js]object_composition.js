@@ -1,4 +1,6 @@
-  let char = function() {
+// created_date: 2018-07-18
+
+let char = function() {
         this.text = 'first';
         this.b = ['d'];                                          
     };
